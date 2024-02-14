@@ -15,4 +15,4 @@
 
 ## 참고 사이트
 
-https://react.vlpt.us/mashup-todolist/
+https://react.vlpt.us/redux/
